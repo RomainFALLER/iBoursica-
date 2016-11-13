@@ -1,0 +1,22 @@
+#tabData{
+       -fx-background-image: url("images/back.jpeg");
+       -fx-background-repeat: stretch;
+   }
+
+   #premierAnchor
+   {
+       -fx-background-image: url("images/back.jpeg");
+       -fx-background-repeat: stretch;
+   }
+
+   #tabIndicePrinc
+   {
+          -fx-background-image: url("images/back.jpeg");
+          -fx-background-repeat: stretch;
+   }
+
+   #backgroundHisto
+   {
+      -fx-background-image: url("images/back.jpeg");
+      -fx-background-repeat: stretch;
+   }
